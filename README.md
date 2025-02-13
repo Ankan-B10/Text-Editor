@@ -20,7 +20,7 @@ This is a basic text editor built using Python's Tkinter library. It allows you 
    If you haven't already, clone the repository to your local machine using Git:
 
    ```bash
-   git clone https://github.com/yourusername/simple-text-editor.git
+   git clone https://github.com/Ankan-B10/simple-text-editor.git
 2. **Navigate to the project directory:**
    ```bash
    cd simple-text-editor
